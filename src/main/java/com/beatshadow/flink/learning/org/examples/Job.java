@@ -1,4 +1,4 @@
-package com.beatshadow.flink.learning;
+package com.beatshadow.flink.learning.org.examples;
 
 /**
  * Licensed to the Apache Software Foundation (ASF) under one

@@ -259,7 +259,7 @@ under the License.
 							<transformers>
 								<!-- add Main-Class to manifest file -->
 								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>com.beatshadow.flink.learning.Job</mainClass>
+									<mainClass>com.beatshadow.flink.learning.org.examples.Job</mainClass>
 								</transformer>
 							</transformers>
 							<createDependencyReducedPom>false</createDependencyReducedPom>
